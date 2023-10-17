@@ -1,0 +1,6 @@
+.header{
+    font-family: 'Tilt Neon', sans-serif;
+    background-image: linear-gradient( #9423d1, #eb0707) !important;
+    -webkit-background-clip: text !important; /* For webkit browsers */
+    color: transparent !important; /* Hide the original text color */
+}

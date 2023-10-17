@@ -1,0 +1,29 @@
+body{
+    background-color: #eee ;
+    padding: 5px 0;
+}
+h2{
+
+}
+
+
+textarea{
+  width: 99%;
+  height: 100%;
+  border: none;
+  outline: none;
+  background-color: #212529;
+  resize: none;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  color: #e3e3e3;
+  padding: 5px;
+  box-sizing: border-box;
+  margin: 5px 5px 0px 5px;
+  letter-spacing: 0.2px;
+  font-family: monospace, sans-serif;
+  font-size: 20px;
+}
